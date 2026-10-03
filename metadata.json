@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual Telemedicine Platform",
+  "description": "Multilingual Telemedicine Platform with Real-Time Medical Translation and Interpreter Assistance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
